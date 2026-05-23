@@ -197,5 +197,3 @@ Developed as part of a metabolomics machine learning research project.
 
 ```
 
-This gives your repo a clean **research-grade GitHub presentation**.
-```

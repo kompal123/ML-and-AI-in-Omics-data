@@ -1,6 +1,6 @@
 
 ````markdown
-# ML and AI in Omics Data: Metabolomics Classification
+### ML and AI in Omics Data: Metabolomics Classification
 
 ## Overview
 This repository contains machine learning workflows for metabolomics data analysis, focusing on disease classification using supervised learning approaches. The project applies feature preprocessing, dimensionality reduction, model optimisation, and comparative evaluation to identify predictive metabolite biomarkers.

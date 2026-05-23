@@ -1,6 +1,3 @@
-Here’s a professional **README.md** for your repository based on the structure shown (`Data`, `Results`, `Sourcecode`) and your metabolomics ML project.
-
-Paste this into your `README.md`:
 
 ````markdown
 # ML and AI in Omics Data: Metabolomics Classification

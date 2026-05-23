@@ -16,8 +16,6 @@ ML_Metabolomics/
 │
 ├── Data/
 │   ├── raw_data.csv
-│   ├── peak_table.csv
-│   └── metadata.csv
 │
 ├── Sourcecode/
 │   ├── metabolomics_classification.ipynb
@@ -26,7 +24,7 @@ ML_Metabolomics/
 ├── Results/
 │   ├── model_performance.csv
 │   ├── feature_importance_comparison.png
-│   └── evaluation_plots/
+│   └── Report/
 │
 └── README.md
 ````
